@@ -1,0 +1,1 @@
+C:\Users\jjoaq\source\repos\netapirest\netapirest\netapirest.csproj;x64
